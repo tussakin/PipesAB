@@ -32,11 +32,3 @@ steps:
   inputs:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
-- task: AzureWebApp@1
-  inputs:
-    azureSubscription: 'Azure for Students(8625300b-a80d-493f-b87d-2cb547b226b7)'
-    appType: 'webApp'
-    appName: 'PipesAB'
-    package: '$(System.DefaultWorkingDirectory)/**/*.zip'
-    deploymentMethod: 'auto'
-    
