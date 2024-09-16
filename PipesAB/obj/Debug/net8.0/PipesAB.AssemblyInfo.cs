@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PipesAB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08f69ee5a23e0ac9ed4c78acbca7353d790eb8ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("PipesAB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PipesAB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
